@@ -131,9 +131,9 @@ a:hover {
 
 .hero-text h2 {
   font-size: clamp(1.7rem, 3vw, 2.7rem);
-  line-height: 1.08;
+  line-height: 1.15;
   margin: 10px 0 28px;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.03em;
 }
 
 .hero-text p {
